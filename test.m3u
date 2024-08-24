@@ -1,0 +1,16 @@
+#EXTM3U 
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png/revision/latest?cb=20200824093625",A SPOR
+http://supersonictv.live:8080/439090/246943/86297
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://seeklogo.com/images/T/ttnet-tivibu-logo-E2960601D7-seeklogo.com.png",TIVIBU
+http://supersonictv.live:8080/439090/246943/86299
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TRT_Spor_logo_(2022).svg",TRT SPOR
+http://supersonictv.live:8080/439090/246943/86302
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Telekom_Sport_1_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614123901",TELECOM SPORT1
+http://supersonictv.live:8080/439090/246943/83964
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Telekom_Sport_2_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614125427",TELEKOM SPORT2
+http://supersonictv.live:8080/439090/246943/83965
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Telekom_Sport_3_(2017).svg/revision/latest/scale-to-width-down/300?cb=20210614130538",TELEKOM SPORT3
+http://supersonictv.live:8080/439090/246943/83966
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp",DIGI SPORT1
+http://supersonictv.live:8080/439090/246943/83897
+#EXTINF:-1 group-title="SPORT CHANNEL" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp",DIGI SPORT2
